@@ -16,9 +16,13 @@
     "apps"
   ],
   "author": "Emilio Bogantes <ejbogantes@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "app-root-path": "^2.0.1",
     "express": "^4.14.1"
+  },
+  "repository":{
+     "type": "git",
+      "url": "https://github.com/ejbogantes/app-virtualizing.git"
   }
 }
