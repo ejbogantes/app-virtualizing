@@ -1,0 +1,17 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "test app1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Emilio Bogantes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
